@@ -1,0 +1,1 @@
+Testing Weather the branch protection is working or not.(Creating a new pull request from Contributor)
